@@ -6,3 +6,5 @@ NOTE: gui.* and fs.open doesn't work. <br>
 2. Install LittleFS on your microcontroller <br>
 3. Save your NanoSharp script as script.ns <br>
 If you did all correctly, your script will correctly run. <br>
+OR <br>
+Run install.ps1 or install.sh with your microcontroller plugged in. <br>
